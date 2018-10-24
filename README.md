@@ -1,2 +1,2 @@
 # EPaxos
-Enjoy Paxos!
+Enjoy Paxos, Enhance Paxos!
